@@ -1,0 +1,6 @@
+<powershell>
+
+write-output "Running User Data Script"
+write-output "Hello Terraform"
+
+</powershell>
